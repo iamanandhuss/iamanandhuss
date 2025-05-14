@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <!--
-**iamanandhuss/iamanandhuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# 👋 Hi, I'm Anandhu S S
+I'm a Full Stack Developer 🚀 passionate about building web apps with **MERN Stack** and mobile apps with **Flutter**.  
+Currently learning advanced concepts in **React & Node.js**.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
