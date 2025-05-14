@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# 👋 Hi, I'm Anandhu S S
+I'm a Full Stack Developer 🚀 passionate about building web apps with **MERN Stack** and mobile apps with **Flutter**.  
+Currently learning advanced concepts in **React & Node.js**.
+
 <!--
 # 👋 Hi, I'm Anandhu S S
 I'm a Full Stack Developer 🚀 passionate about building web apps with **MERN Stack** and mobile apps with **Flutter**.  
